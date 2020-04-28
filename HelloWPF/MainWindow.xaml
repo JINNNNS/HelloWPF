@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="안녕? 헬로우 월드, 이예진!" HorizontalAlignment="Left" Margin="213,109,0,0" VerticalAlignment="Top" Width="376" Height="212" Background="#FFFF8282"/>
+        <Button Content="안녕? 헬로우 월드, 이예진!" HorizontalAlignment="Left" Margin="213,109,0,0" VerticalAlignment="Top" Width="376" Height="212" Background="#FFFF9797" Foreground="White"/>
 
     </Grid>
 </Window>
